@@ -1,0 +1,10 @@
+http://www.google.com
+http://127.0.0.1:8001/api/v1/proxy/nodes/minikube:10255/stats/summary
+http://127.0.0.1:8001/apis/extensions/v1beta1/namespaces/default/deployments/nginx-v1
+http://127.0.0.1:8001/metrics
+http://127.0.0.1:8001/api/v1/events
+http://127.0.0.1:8001/api/v1
+http://127.0.0.1:8001/api/v1/namespaces/kube-system/pods/heapster-vq9ld
+http://127.0.0.1:8001/api/v1/nodes/minikube/status
+http://127.0.0.1:8001/api/v1/nodes/minikube
+http://127.0.0.1:8001/api/v1/namespaces/kube-system/configmaps/
